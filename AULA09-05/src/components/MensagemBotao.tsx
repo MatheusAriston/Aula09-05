@@ -6,7 +6,7 @@ const [aviso, setaviso] = useState('OI')
 
 const mensagem = ( ) =>{
 
-    
+    setaviso = ('Seja Bem Vindo ao curso de ADS');
 }
 return(
 
